@@ -21,6 +21,8 @@ sudo apt-get upgrade
 #### Creating grader User:
   ```
   sudo adduser grader
+  grader password:kala
+  
   ```
   This will add new user
   ```
