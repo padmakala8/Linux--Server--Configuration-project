@@ -14,7 +14,7 @@ sudo apt-get update
 sudo apt-get upgrade
 Creating grader User:
 sudo adduser grader
-This will add new user give a password. (Mine is) : kala
+This will add new user give a password. (Mine is) :kala
 
 sudo nano /etc/sudoers
 Below the Root user append the following line
@@ -227,7 +227,7 @@ login as : ubuntu
 
 su - grader
 
-password for grader:prav123
+password for grader:kala
 
 Making .ssh folder
 mkdir .ssh
